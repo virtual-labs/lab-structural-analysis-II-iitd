@@ -8,44 +8,49 @@
   "lab_display_name": "Structural Analysis-II",
   "phase": "3-ext",
   "collegeName": "IITD",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
-  "introduction": "Welcome to Virtual Structural Analysis-II Lab. This laboratory provides platform to inquisitive students to perform basic experiments related to structural analysis-II, either remotely or through simulation. Structural analysis is a fundamental aspect of civil engineering and architecture which involves the study of various techniques used to evaluate the structures to ensure they can withstand various loads and forces without failure. Load Analysis: This involves determining the various loads acting on a structure, such as dead loads (the weight of the
-structure itself), live loads (the weight of occupants or materials), wind loads, seismic loads, temperature effects, etc",
-
-      "experiments": [
+  "baseUrl": "sa2-iitd.vlabs.ac.in",
+  "introduction": "Welcome to Virtual Structural Analysis-II Lab. This laboratory provides platform to inquisitive students to perform basic experiments related to structural analysis-II, either remotely or through simulation. Structural analysis is a fundamental aspect of civil engineering and architecture which involves the study of various techniques used to evaluate the structures to ensure they can withstand various loads and forces without failure. Load Analysis: This involves determining the various loads acting on a structure, such as dead loads (the weight of the structure itself), live loads (the weight of occupants or materials), wind loads, seismic loads, temperature effects, etc",
+  "experiments": [
         {
           "name": "Break down a 3D framed structure into 2D frames",
           "short-name": "3D-to-2D-frames",
-          "repo": "https://github.com/virtual-labs/exp-structure-break-down-iitd.git",
+          "repo": "https://github.com/virtual-labs/exp-structure-break-down-iitd",
           "tag": "v1.0.0",
           "deploy": true
         },
         {
-          "name": "Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
+          "name": "Static Indeterminacy",
+          "short-name": "static-indeterminacy",
+          "repo": "https://github.com/virtual-labs/exp-static-indeterminacy-iitd",
+          "tag": "v1.0.0",
           "deploy": true
         },
         {
-          "name": "Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
+          "name": "Kinematic Indeterminacy",
+          "short-name": "kinematic-indeterminacy",
+          "repo": "https://github.com/virtual-labs/exp-kinematic-indeterminacy-iitd",
+          "tag": "v1.0.0",
           "deploy": true
         },
         {
-          "name": "Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
+          "name": "Slope Deflection Method I (Beams)",
+          "short-name": "Slope-Deflection-method-1-beams",
+          "repo": "https://github.com/virtual-labs/exp-slope-deflection-i-iitd",
+          "tag": "v1.0.0",
+          "deploy": true
+        },
+        {
+          "name": "Slope Deflection Method II (Frame)",
+          "short-name": "slope-deflection-method-2-frame",
+          "repo": "https://github.com/virtual-labs/exp-slope-deflection-ii-iitd",
+          "tag": "v1.0.0",
           "deploy": true
         }
   ],
   
   "targetAudience": {
     "UG": [
-      "Under Graduate students of B.E./B.Tech. - (Civil Engineering)",
+      "Under Graduate students of B.E./B.Tech. - (Civil Engineering)"
       
           ],
     "PG": [
@@ -56,7 +61,7 @@ structure itself), live loads (the weight of occupants or materials), wind loads
     ]
   },
   
-  "objective":""objective": "Structural analysis is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:\n- to recall the fundamentals of Structural Analysis\n- to understand the theory behind an experimental procedure\n- to apply the concepts learned to perform experiments\n- to analyze and present the output from the experiments",
+  "objective":"Structural analysis is one of the important courses in Civil Engineering. In this laboratory, students will have the opportunity:\n- to recall the fundamentals of Structural Analysis\n- to understand the theory behind an experimental procedure\n- to apply the concepts learned to perform experiments\n- to analyze and present the output from the experiments",
 
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
