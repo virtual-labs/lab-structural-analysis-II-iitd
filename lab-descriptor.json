@@ -13,7 +13,7 @@
   "experiments": [
         {
           "name": "Break down a 3D framed structure into 2D frames",
-          "short-name": "3D-to-2D-frames",
+          "short-name": "3d-to-2d-frames",
           "repo": "https://github.com/virtual-labs/exp-structure-break-down-iitd",
           "tag": "v1.0.0",
           "deploy": true
@@ -34,7 +34,7 @@
         },
         {
           "name": "Slope Deflection Method I (Beams)",
-          "short-name": "Slope-Deflection-method-1-beams",
+          "short-name": "slope-deflection-method-1-beams",
           "repo": "https://github.com/virtual-labs/exp-slope-deflection-i-iitd",
           "tag": "v1.0.0",
           "deploy": true
