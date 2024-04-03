@@ -13,7 +13,7 @@
   "experiments": [
         {
           "name": "Break down a 3D framed structure into 2D frames",
-          "short-name": "3d-to-2d-frames",
+          "short-name": "break-down-3d-to-2d-frames",
           "repo": "https://github.com/virtual-labs/exp-structure-break-down-iitd",
           "tag": "v1.0.0",
           "deploy": true
