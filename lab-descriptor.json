@@ -29,7 +29,7 @@
       "name": "Kinematic Indeterminacy",
       "short-name": "kinematic-indeterminacy",
       "repo": "https://github.com/virtual-labs/exp-kinematic-indeterminacy-iitd",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
